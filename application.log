@@ -1,0 +1,21 @@
+2022-05-09 20:42:40.611  INFO 10452 --- [restartedMain] c.b.a.AddressbookAppApplication          : Starting AddressbookAppApplication using Java 11.0.14 on DESKTOP-S0OIGJA with PID 10452 (D:\TW CFP\spring\AddressBookApp\addressbookapp\target\classes started by karth in D:\TW CFP\spring\AddressBookApp\addressbookapp)
+2022-05-09 20:42:40.611 DEBUG 10452 --- [restartedMain] c.b.a.AddressbookAppApplication          : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-09 20:42:40.611  INFO 10452 --- [restartedMain] c.b.a.AddressbookAppApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-05-09 20:42:48.142  WARN 10452 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-09 20:42:48.986  INFO 10452 --- [restartedMain] c.b.a.AddressbookAppApplication          : Started AddressbookAppApplication in 9.382 seconds (JVM running for 11.0)
+2022-05-09 20:42:49.001  INFO 10452 --- [restartedMain] c.b.a.AddressbookAppApplication          : Addressbook App Started in COMMON Environment
+2022-05-09 20:42:49.001  INFO 10452 --- [restartedMain] c.b.a.AddressbookAppApplication          : Addressbook App started
+2022-05-09 21:00:07.413  INFO 10196 --- [restartedMain] c.b.a.AddressbookAppApplication          : Starting AddressbookAppApplication using Java 11.0.14 on DESKTOP-S0OIGJA with PID 10196 (D:\TW CFP\spring\AddressBookApp\addressbookapp\target\classes started by karth in D:\TW CFP\spring\AddressBookApp\addressbookapp)
+2022-05-09 21:00:07.413 DEBUG 10196 --- [restartedMain] c.b.a.AddressbookAppApplication          : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-09 21:00:07.413  INFO 10196 --- [restartedMain] c.b.a.AddressbookAppApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-05-09 21:00:13.434  WARN 10196 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-09 21:00:14.129  INFO 10196 --- [restartedMain] c.b.a.AddressbookAppApplication          : Started AddressbookAppApplication in 7.655 seconds (JVM running for 8.844)
+2022-05-09 21:00:14.129  INFO 10196 --- [restartedMain] c.b.a.AddressbookAppApplication          : Addressbook App Started in COMMON Environment
+2022-05-09 21:00:14.129  INFO 10196 --- [restartedMain] c.b.a.AddressbookAppApplication          : Addressbook App started
+2022-05-09 21:01:18.988  INFO 9840 --- [restartedMain] c.b.a.AddressbookAppApplication          : Starting AddressbookAppApplication using Java 11.0.14 on DESKTOP-S0OIGJA with PID 9840 (D:\TW CFP\spring\AddressBookApp\addressbookapp\target\classes started by karth in D:\TW CFP\spring\AddressBookApp\addressbookapp)
+2022-05-09 21:01:18.988 DEBUG 9840 --- [restartedMain] c.b.a.AddressbookAppApplication          : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-09 21:01:18.988  INFO 9840 --- [restartedMain] c.b.a.AddressbookAppApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-05-09 21:01:25.053  WARN 9840 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-09 21:01:25.662  INFO 9840 --- [restartedMain] c.b.a.AddressbookAppApplication          : Started AddressbookAppApplication in 7.734 seconds (JVM running for 8.991)
+2022-05-09 21:01:25.662  INFO 9840 --- [restartedMain] c.b.a.AddressbookAppApplication          : Addressbook App Started in COMMON Environment
+2022-05-09 21:01:25.662  INFO 9840 --- [restartedMain] c.b.a.AddressbookAppApplication          : Addressbook App started
