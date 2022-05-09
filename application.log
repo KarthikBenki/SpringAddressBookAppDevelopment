@@ -274,3 +274,10 @@ Caused by: org.hibernate.HibernateException: Access to DialectResolutionInfo can
 	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263) ~[hibernate-core-5.6.8.Final.jar:5.6.8.Final]
 	... 38 common frames omitted
 
+2022-05-09 21:25:04.222  INFO 16540 --- [restartedMain] c.b.a.AddressbookAppApplication          : Starting AddressbookAppApplication using Java 11.0.14 on DESKTOP-S0OIGJA with PID 16540 (D:\TW CFP\spring\AddressBookApp\addressbookapp\target\classes started by karth in D:\TW CFP\spring\AddressBookApp\addressbookapp)
+2022-05-09 21:25:04.222 DEBUG 16540 --- [restartedMain] c.b.a.AddressbookAppApplication          : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-09 21:25:04.222  INFO 16540 --- [restartedMain] c.b.a.AddressbookAppApplication          : The following 1 profile is active: "DEV"
+2022-05-09 21:25:07.134  WARN 16540 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-09 21:25:07.525  INFO 16540 --- [restartedMain] c.b.a.AddressbookAppApplication          : Started AddressbookAppApplication in 3.973 seconds (JVM running for 5.333)
+2022-05-09 21:25:07.540  INFO 16540 --- [restartedMain] c.b.a.AddressbookAppApplication          : Addressbook App Started in DEV Environment
+2022-05-09 21:25:07.540  INFO 16540 --- [restartedMain] c.b.a.AddressbookAppApplication          : Addressbook App started
