@@ -3,8 +3,15 @@ package com.bridgelabz.addressbookapp.model;
 import com.bridgelabz.addressbookapp.dto.AddressbookDTO;
 import lombok.Data;
 
+import javax.persistence.*;
+
 @Data
+@Entity
+@Table(name="contact_table")
 public class AddressbookData {
+    @Id
+    @Column(name = "person_id")
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private int personId;
     private String firstName;
     private String lastName;
@@ -19,6 +26,10 @@ public class AddressbookData {
     public AddressbookData(int personId, AddressbookDTO addressbookDTO) {
         this.personId = personId;
         this.updateAddressBookdata(addressbookDTO);
+
+    }
+
+    public AddressbookData() {
 
     }
 
